@@ -28,6 +28,7 @@
 {
     [super viewDidLoad];
     NSLog(@"In viewDidLoad of FirstVC");
+    NSLog(@"Test file edit from github repo in FirstVC");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
