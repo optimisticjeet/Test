@@ -43,6 +43,7 @@
         NSLog(@"Only in second branch");
         return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
     } else {
+        NSLog(@"Test2: Only in second branch");
         return YES;
     }
 }
