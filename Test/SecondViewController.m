@@ -27,6 +27,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"In viewDidLoad2");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
