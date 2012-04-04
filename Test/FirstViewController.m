@@ -26,6 +26,7 @@
 							
 - (void)viewDidLoad
 {
+    NSLog(@"Test Second Branch Merge with First");
     [super viewDidLoad];
     NSLog(@"In viewDidLoad of FirstVC");
 	// Do any additional setup after loading the view, typically from a nib.
